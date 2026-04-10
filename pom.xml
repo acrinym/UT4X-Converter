@@ -13,11 +13,10 @@
 	<properties>
 		<java.version>25</java.version>
 		<maven.compiler.release>${java.version}</maven.compiler.release>
-		<javafx.version>26.0.2</javafx.version>
-		<slf4j.version>2.0.18</slf4j.version>
-		<log4j.version>2.26.1</log4j.version>
-		<twelvemonkeysio.version>3.14.0</twelvemonkeysio.version>
-		<lombok.version>1.18.46</lombok.version>
+		<javafx.version>13</javafx.version>
+		<slf4j.version>1.7.29</slf4j.version>
+		<log4j.version>2.25.4</log4j.version>
+		<jaxb.version>2.2.11</jaxb.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mainClass>io.github.xtremexp.ut4converter.MainApp</mainClass>
 		<junit.version>6.1.3</junit.version>
